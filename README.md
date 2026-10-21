@@ -2,7 +2,7 @@
 
 A working redesign of growify.in that positions Growify as an integrated **growth + commerce + AI + product** company for luxury, couture and fine jewellery brands. Built for the Growify AI Generalist practical assignment.
 
-**Live prototype:** https://growify-reimagined-mayanks-projects-c25d6740.vercel.app
+**Live prototype:** https://growify-saloni-nayyar.vercel.app/
 
 > Prototype only. It is `noindex` and does not touch the live growify.in site.
 
